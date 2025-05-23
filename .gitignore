@@ -1,0 +1,6 @@
+__pycache__/ 
+*.ipynb_checkpoints/ 
+model/logistic_model.pkl 
+model/rf_original.pkl 
+model/rf_tuned.pkl 
+model/feature_columns.pkl 
