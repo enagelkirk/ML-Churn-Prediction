@@ -73,7 +73,34 @@ The Random Forest model did a better job at precision, but the Logistic Regressi
 
 ## How to Run This
 
-1. Clone the repo
-```bash
-git clone https://github.com/enagelkirk/ML-Churn-Prediction.git
-cd ML-Churn-Prediction
+To use the Customer Churn Prediction App, just open it in your browser — no installation required:
+
+👉 **[Launch the App](https://your-streamlit-app-link.streamlit.app)**
+
+> Use the app to test different machine learning models and predict whether a customer is likely to churn based on their service details.
+
+<details>
+  <summary>Prefer to run it locally? Follow these steps:</summary>
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/enagelkirk/ML-Churn-Prediction.git
+   cd ML-Churn-Prediction
+
+2. **(Optional but recommended) Create a virtual environment:**
+
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+3. **Install the required dependencies:**
+
+   ```bash
+   pip install -r requirements.txt
+
+4. **Run the app:**
+
+   ```bash
+   streamlit run streamlit_app.py
+
+</details>
