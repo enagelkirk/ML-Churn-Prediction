@@ -75,7 +75,7 @@ The Random Forest model did a better job at precision, but the Logistic Regressi
 
 To use the Customer Churn Prediction App, just open it in your browser — no installation required:
 
-👉 **[Launch the App](https://your-streamlit-app-link.streamlit.app)**
+👉 **[Launch the App]([https://your-streamlit-app-link.streamlit.app](https://telecom-churn-predictor.streamlit.app))**
 
 > Use the app to test different machine learning models and predict whether a customer is likely to churn based on their service details.
 
